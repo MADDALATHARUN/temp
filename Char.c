@@ -11,5 +11,5 @@ scanf("%d",&n);
 for(int i=0;i<n;i++){
         printf("number%d %c %d\n",i+1, array[i],array[i]);}
     }
-print("Edited")
+print("Edited again")
 
